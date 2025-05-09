@@ -4,7 +4,7 @@ A business rule has been set-up with scope set to entity. There are three paths:
 
 - Booking Status is Complete: Lock the To and From fields, ELSE,
 - Date is 01/01/2025: Show an Error message, ELSE
-- Unlock the to and From fields
+- Unlock the To and From fields
 
 ![declaration](./1_business_rule_declaration.png)
 
